@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<HEAD>
+  <TITLE>HaikuPoet.Com</TITLE>
+<META name="author" content="Paul David Mena">
+<META name="description" content="Always Waiting for the Next Train">
+<META name="keywords" content="Paul David Mena, Mary Melodee Mena, haiku, 
+      Haiku in Low Places, tenement landscapes, trainsongs, brewpub
+      chronicles, poetry, Boston, Cochituate, Massachusetts, Haiku Society
+      of America, Boston Haiku Society">
+<META name="index" content="document">
+<META name="copyright" content="copyright 2003, Haiku in Low Places ">
+<META name="distribution" content="global">
+<META keywords="Paul David Mena,Haiku in Low Places,haiku"> 
+<!-- BASE HREF="http://www.haikupoet.com/new/" -->
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+
+//-->
+</script>
+
+</HEAD>
+<BODY BACKGROUND=dark_gray_rock.gif>
+<table width="600" border="0" align="center" cellpadding="10" bgcolor="#FFFFFF">
+  <tr> 
+    <td>&nbsp;</td>
+    <td><font size="4" face="Tahoma"><strong>A New Haiku Gallery</strong></font></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+    <td bgcolor="#9966FF"><div align="center"><font color="#FFFFFF" size="2" face="Tahoma">click on the thumbnail<br>to see the image</font></div></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td><font size="4" face="Tahoma">even the pigeons</font></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+    <td bgcolor="#9966FF"><div align="center"><font size="4" face="Tahoma">
+    <a href="#" onClick="MM_openBrWindow('Pigeons.jpg','pigeons',
+       'status=yes,scrollbars=no,width=316,height=437')"><img src="Pigeons_thumb.jpg" border=0></a></font></div></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td><font size="4" face="Tahoma">rain out</font></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+    <td bgcolor="#9966FF"><div align="center"><font size="4" face="Tahoma">
+    <a href="#", onClick="MM_openBrWindow('Rain_Delay.jpg','rain_delay',
+       'status=yes,scrollbar=no,width=311,height=437')">
+    <img src="Rain_Delay_thumb.jpg" border=0></a></font></div></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td><font size="4" face="Tahoma">unable to sleep</font></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+    <td bgcolor="#9966FF"><div align="center"><font size="4" face="Tahoma">
+    <a href="#", onClick="MM_openBrWindow('train2.jpg','train',
+       'status=yes,scrollbar=no,width=316,height=437')">
+    <img src="train2_thumb.jpg" border=0></a></font></div></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+  </tr>
+  <tr> 
+    <td>&nbsp;</td>
+    <td><font size="4" face="Tahoma">yesterday's news</font></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+    <td bgcolor="#9966FF"><div align="center"><font size="4" face="Tahoma">
+    <a href="#", onClick="MM_openBrWindow('federalhill2.jpg','federalhill',
+       'status=yes,scrollbar=no,width=512,height=370')">       
+    <img border=0 src="federalhill2_thumb.jpg"></a></font></div></td>
+    <td><font size="4" face="Tahoma">&nbsp;</font></td>
+  </tr>
+  </table>
+
+  <p>&nbsp;</p>
+
+</body>
+</html>
